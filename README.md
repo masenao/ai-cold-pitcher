@@ -1,3 +1,5 @@
+DEMO - https://ai-cold-pitcher-pynqvpymc5qcgcyq9jckcw.streamlit.app/
+
 # 📩 AI Cold Outreach Pitcher (Gemini + Streamlit)
 
 Генератор персонализированных, дружелюбных сообщений для холодных продаж владельцам бизнесов на базе Google Gemini API и Streamlit.
