@@ -1,0 +1,27 @@
+# Виртуальное окружение Python
+venv/
+.venv/
+env/
+ENV/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Секреты, ключи и личные заметки
+idk/
+*.env
+.env.*
+*api*.txt
+.streamlit/secrets.toml
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Системные файлы
+.DS_Store
+Thumbs.db
